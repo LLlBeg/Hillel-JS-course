@@ -11,7 +11,7 @@ const data = [
   {
     id: 2,
     name: "Kristina",
-    email: "KristinaSimonova@gmail.com",
+    email: "KristinaGlef@gmail.com",
     age: 31,
     city: "Kharkiv",
     gender: "Famale",
@@ -20,7 +20,7 @@ const data = [
   {
     id: 3,
     name: "Dmitrii",
-    email: "DmitriiDiyakov@gmail.com",
+    email: "DmitriiDilov@gmail.com",
     age: 24,
     city: "Luhansk",
     gender: "Male",
@@ -29,7 +29,7 @@ const data = [
   {
     id: 4,
     name: "Nicolay",
-    email: "NicolayOvsienko@gmail.com",
+    email: "NicolayLuts@gmail.com",
     age: 33,
     city: "Lviv",
     gender: "Male",
@@ -38,7 +38,7 @@ const data = [
   {
     id: 5,
     name: "Sergiy",
-    email: "SergiyAndriyenko@gmail.com",
+    email: "SergiyAlkiv@gmail.com",
     age: 25,
     city: "Kiev",
     gender: "Male",
